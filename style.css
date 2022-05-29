@@ -3,3 +3,23 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+nav {
+  text-align: center;
+}
+section {
+  text-align: center;
+}
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background: red;
+}
+figcaption {
+  font-size: small;
+}
+section div {
+  float: left;
+}
